@@ -1,0 +1,54 @@
+
+body{
+    background-image: url(fon.jpg);
+}
+#wrapper{
+    width: 900px;
+    height: auto;
+    margin: auto;
+    background-image: url(fonwrap.jpg);
+    border-color: white;
+    border-radius: 95px;
+    border-style: solid;
+    border-width: 15px;
+}
+#header h1 {
+    font-family: lobster;
+    text-align: center;
+    font-size: 700%;
+    color: white;
+    text-shadow: 15px 10px 15px #000;
+}
+#header li {
+    list-style-type: none;
+    text-align: center;
+    font-size: 140%;
+    font-family: lobster;
+    color:white!important;
+    text-shadow: 10px 10px 10px #000, 0 1px 1px #000, -1px 0 1px #000, 0 -1px 1px #000;
+}
+ol {
+   text-align: center; 
+   list-style-type: none;
+   line-height: 4; 
+
+}
+
+ol img{
+    width: 90%;
+    border-style: solid;
+    border-radius: 100px;
+    border-color: #e75480;
+    border-width: 20px;
+}
+
+#footer p {
+    text-align: center;
+    font-family: lobster;
+    text-shadow: 10px 10px 10px #000;
+    color: white;
+    font-size: 450%;
+}
+
+
+
